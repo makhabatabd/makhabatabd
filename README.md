@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=makhabatabd&label=Profile%20views&color=0e75b6&style=flat" alt="makhabatabd" /> </p>
 
-- 🌱 I’m efficient at **Next.Js, React Native, Vue**
+- 🌱 I’m efficient at **Next.Js, React Native, Vue, Node and a bit of Python**
 
-- 💬 Ask me about **React, JavaScript, HTML, CSS**
+- 💬 Ask me about **React, Vue, JavaScript, HTML, CSS, Node, AWS and more**
 
 - 📫 How to reach me **abdisattarovamakhabat@gmail.com**
 
